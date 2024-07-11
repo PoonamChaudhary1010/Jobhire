@@ -155,7 +155,7 @@ section {
 }
 
 .home-container {
-    background: url('/images/home.bg.jpg'), rgba(0, 0, 0, .7)no-repeat;
+    background: url('./images/home.bg.jpg'), rgba(0, 0, 0, .7)no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -845,7 +845,7 @@ section {
 }
 
 .account-form-container {
-    background: url('/images/account.bg.jpg'), rgba(0, 0, 0, .7)no-repeat;
+    background: url('./images/account.bg.jpg'), rgba(0, 0, 0, .7)no-repeat;
     background-size: cover;
     background-position: center;
     background-blend-mode: color;
